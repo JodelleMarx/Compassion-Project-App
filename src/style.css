@@ -1,0 +1,142 @@
+body {
+  background: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
+h1 {
+  display: block;
+  text-align: center;
+}
+h2 {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 500pt;
+  font-size: 14pt;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: lighter;
+}
+h3 {
+  text-align: center;
+  color: rgb(28, 5, 92);
+  font-weight: bold;
+  border: rgb(28, 5, 92);
+  border-radius: 4pt;
+  padding: 10px;
+}
+p {
+  text-align: center;
+}
+button {
+  box-shadow: 4pt 4pt 4pt rgb(28, 5, 92);
+}
+img {
+  display: block;
+  width: 120pt;
+  margin: 0 auto;
+}
+hr {
+  width: 100px;
+}
+.header {
+  border: 2px solid rgb(28, 5, 92);
+  background: rgb(28, 5, 92);
+  color: #ada8d8;
+  padding: 10pt 20pt 35pt 20pt;
+  border-radius: 4pt;
+  box-shadow: 4pt 4pt 4pt #000;
+  line-height: 25pt;
+}
+.resources {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(28, 5, 92);
+}
+.footer {
+  border: 2px solid rgb(28, 5, 92);
+  background: rgb(28, 5, 92);
+  color: #ada8d8;
+  padding: 30pt 20pt 32pt 20pt;
+  border-radius: 4pt;
+  box-shadow: 4pt 4pt 4pt #000;
+}
+.instructions {
+  margin: 0 auto 20pt;
+  display: block;
+  padding: 10pt 40pt;
+  border-radius: 90pt 10pt;
+  background-color: #1c055c;
+  color: #ada8d8;
+  transition: 200ms ease-in-out;
+}
+.instructions:hover {
+  color: #000;
+  cursor: pointer;
+  background-color: #a49ddd;
+  opacity: 0.9;
+}
+.selfLove {
+  margin: 0 auto 20pt;
+  display: block;
+  padding: 10pt 40pt;
+  border-radius: 90pt 10pt;
+  background-color: #9890e2;
+  transition: 200ms ease-in-out;
+}
+.selfLove:hover {
+  color: #ada8d8;
+  cursor: pointer;
+  background-color: rgb(28, 5, 92);
+  opacity: 0.9;
+}
+.pride {
+  margin: 0 auto 20pt;
+  display: block;
+  padding: 10pt 40pt;
+  border-radius: 90pt 10pt;
+  background-color: #9890e2;
+}
+.pride:hover {
+  color: #ada8d8;
+  cursor: pointer;
+  background-color: rgb(28, 5, 92);
+  opacity: 0.9;
+}
+.bodyLove {
+  margin: 0 auto 20pt;
+  display: block;
+  padding: 10pt 40pt;
+  border-radius: 90pt 10pt;
+  background-color: #9890e2;
+}
+.bodyLove:hover {
+  color: #ada8d8;
+  cursor: pointer;
+  background-color: rgb(28, 5, 92);
+  opacity: 0.9;
+}
+.respect {
+  margin: 0 auto 20pt;
+  display: block;
+  padding: 10pt 40pt;
+  border-radius: 90pt 10pt;
+  background-color: #9890e2;
+}
+.respect:hover {
+  color: #ada8d8;
+  cursor: pointer;
+  background-color: rgb(28, 5, 92);
+  opacity: 0.9;
+}
+.practicing {
+  margin: 0 auto 20pt;
+  display: block;
+  padding: 10pt 40pt;
+  border-radius: 90pt 10pt;
+  background-color: #9890e2;
+}
+.practicing:hover {
+  color: #ada8d8;
+  cursor: pointer;
+  background-color: rgb(28, 5, 92);
+  opacity: 0.9;
+}
